@@ -1,4 +1,5 @@
-1. [] Create DL models and save as json files
-2. [] Download and structure VGG16 and MobileNet models
+1. [ ] Create DL models and save as json files
+2. [ ] Download and structure VGG16 and MobileNet models
 3. [X] Deploy Dummy to firebase
-4. []  
+4. [ ] Setup Routing for differnt model views
+5. [ ] Add fun
