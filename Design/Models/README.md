@@ -1,4 +1,4 @@
-#Models 
+# Models 
 
 ### MNIST
    Classify images pertaining to digits 0 to 9
